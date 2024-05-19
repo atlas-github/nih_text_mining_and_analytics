@@ -44,7 +44,8 @@ ___
 ## 10.20 am: Data structures and the pandas library
   1. Most common data structures:
      - Lists like `my_list = [1, 2, 3, 'hello', True]`
-     - Tuples
+       - Lists are 
+     - Tuples like `my_tuple = (1, 2, 'world', False)`
      - Dictionaries
      - Sets
      - Strings
