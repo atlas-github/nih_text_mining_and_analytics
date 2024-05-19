@@ -136,7 +136,7 @@ ___
 
 ## 10.50 am: XML parsing
 
-## 11.30 am: REST APIs (using [data.gov.my](https://data.gov.my/dashboard))
+## 11.30 am: REST APIs (using GitHub's [API](https://api.github.com/) and [data.gov.my](https://data.gov.my/dashboard))
    1. Using either your new Google account or your personal account, sign up for [Postman](https://www.postman.com/), then log in
        - Look for Workspaces (top left of the page) >> My Workspace (Click)
        - ![image](https://github.com/atlas-github/2023fstep25/assets/50855923/4144bc9c-1375-404e-9a39-747cd179724c)
