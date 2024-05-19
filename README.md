@@ -126,6 +126,46 @@ ___
 ## 08.30 am: Text mining
 
 ## 09.30 am: Revise data structures and list methods
+  1. Lists
+     - Given a list of integers, write a function to find the sum of all the numbers.
+       - Example Input: `[1, 2, 3, 4, 5]`
+       - Expected Output: `15`
+     - Write a function to remove duplicates from a list.
+       - Example Input: `[1, 2, 2, 3, 4, 4, 5]`
+       - Expected Output: `[1, 2, 3, 4, 5]`
+     - Given a list of strings, write a function to sort them in alphabetical order.
+       - Example Input: `['banana', 'apple', 'orange', 'grape']`
+       - Expected Output: `['apple', 'banana', 'grape', 'orange']`
+  2. Dictionaries
+     - Given a list of words, write a function to count the frequency of each word and store the result in a dictionary.
+       - Example Input: `['apple', 'banana', 'apple', 'orange', 'banana', 'banana']`
+       - Expected Output: `{'apple': 2, 'banana': 3, 'orange': 1}`
+     - Write a function to merge two dictionaries.
+       - Example Input: `{'a': 1, 'b': 2}, {'c': 3, 'd': 4}`
+       - Expected Output: `{'a': 1, 'b': 2, 'c': 3, 'd': 4}`
+    - Write a function to check if a key exists in a dictionary.
+       - Example Input: `{'a': 1, 'b': 2, 'c': 3}, 'b'`
+       - Expected Output: `True`
+  3. Sets
+     - Write a function to find the common elements between two sets.
+       - Example Input: `{1, 2, 3, 4}, {3, 4, 5, 6}`
+       - Expected Output: `{3, 4}`
+     - Given two lists, write a function to find the unique elements that appear in both lists.
+       - Example Input: `[1, 2, 3, 4], [3, 4, 5, 6]`
+       - Expected Output: `{3, 4}`
+     - Given two sets, write a function to find the difference between them.
+       - Example Input: `{1, 2, 3, 4}, {3, 4, 5, 6}`
+       - Expected Output: `{1, 2}`
+  4. Strings
+     - Write a function to reverse a string.
+       - Example Input: `'hello'`
+       - Expected Output: `'olleh'`
+     - Given a string, write a function to count the occurrences of each character and store the result in a dictionary.
+       - Example Input: `'hello'`
+       - Expected Output: `{'h': 1, 'e': 1, 'l': 2, 'o': 1}`
+    - Given a string, write a function to capitalize the first letter of each word.
+       - Example Input: `'hello world'`
+       - Expected Output: `'Hello World'`
 
 ## 10.00 am: JSON parsing and list comprehensions
   1. Download json file from [Nobel](https://api.nobelprize.org/v1/laureate.json) by right clicking, and Save As
