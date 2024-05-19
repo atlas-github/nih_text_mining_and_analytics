@@ -180,6 +180,8 @@ ___
 ___
 
 ## 2.00 pm: Web scraping
+  1. Web scrape [Selangor](https://en.wikipedia.org/wiki/Selangor) using Python's [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+  2. Find all paragraphs
 
 ## 2.30 pm: Text mining KMBase
   1. Open [Google Colab](https://colab.research.google.com/) in another tab
