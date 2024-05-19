@@ -128,6 +128,7 @@ ___
 ## 09.30 am: Revise data structures and list methods
 
 ## 10.00 am: JSON parsing and list comprehensions
+  1.
 
 ___
 
@@ -135,7 +136,12 @@ ___
 ___
 
 ## 10.50 am: XML parsing
-  1. 
+  1. Load a sample XML file from [here](https://gist.githubusercontent.com/Ram-N/5189462/raw/46db0b43ad7bf9cbd32a8932f3ab981bd4b4da7c/books.xml) using one of the functions provided in the pandas library
+  2. Convert the XML file into a dataframe in Colab
+  3. Download the table as a CSV file onto your laptop
+  4. Open the link [The Guardian](https://www.theguardian.com/international/rss)
+  5. Convert the RSS output into a dataframe in Colab
+  6. Download the result as a CSV file onto your laptop
 
 ## 11.30 am: REST APIs (using GitHub's [API](https://api.github.com/) and [data.gov.my](https://data.gov.my/dashboard))
    1. Using either your new Google account or your personal account, sign up for [Postman](https://www.postman.com/), then log in
