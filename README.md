@@ -169,7 +169,10 @@ ___
      - Upload results to a Google Sheet
      - Email notification to receive new results
   2. Task
-     - Build the same for LILACS
+     - Build RSS feed parser using LILACS, with a sample search term
+     - Save search results as a dataframe
+     - Upload results to a Google Sheet
+     - Email notification to receive new results
 
 ___
 
