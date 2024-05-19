@@ -136,9 +136,42 @@ ___
 
 ## 10.50 am: XML parsing
 
-## 11.30 am: REST APIs
+## 11.30 am: REST APIs (using [data.gov.my](https://data.gov.my/dashboard))
+   1. Using either your new Google account or your personal account, sign up for [Postman](https://www.postman.com/), then log in
+       - Look for Workspaces (top left of the page) >> My Workspace (Click)
+       - ![image](https://github.com/atlas-github/2023fstep25/assets/50855923/4144bc9c-1375-404e-9a39-747cd179724c)
+         
+       - Look for the + sign beside Overview
+       - ![image](https://github.com/atlas-github/2023fstep25/assets/50855923/3582e9e2-61d3-4925-811d-959303ffca23)
+         
+   2. Open [data.gov.my](https://data.gov.my/dashboard) using another tab on your browser >> API Docs
+   3. Scroll to Realtime APIs >> Weather API
+   4. Try the Forecast API Endpoint `GET https://api.data.gov.my/weather/forecast` on Postman
+        - Look for the icon circled in the snapshot below
+        - ![image](https://github.com/atlas-github/2023fstep25/assets/50855923/f68b0004-a86f-467a-8c0c-d0a5c47c09a5)
+     
+        - Switch from cURL to Python - Requests
+        - ![image](https://github.com/atlas-github/2023fstep25/assets/50855923/225b80ec-0323-42ad-8eb0-67c9d5ae0d85)
+     
+        - Copy the Python code from Postman and paste into a new [Colab notebook](https://colab.research.google.com/)
 
-## 12.00 pm: Text mining using PubMed, MEDLINE and LILACs
+   5. Change `print(response.text)` to `response.json()` to see the data returned by the API endpoint
+   6. Tasks:
+      - Convert json output into a dataframe using `pd.json_normalize()`
+      - Store dataframe into a variable `df`
+      - Filter to include only `df[df['location.location_name'] == 'Langkawi']`
+      - Output into a CSV file, then download and open in Excel
+      - Now try the Transport API (GTFS-R) and output the locations of Prasarana buses on Google My Maps
+      - What other questions can you answer?
+      - Don't forget to try using the [Weather API](https://developer.data.gov.my/realtime-api/weather) 
+
+## 12.00 pm: Text mining using [PubMed](https://pubmed.ncbi.nlm.nih.gov/) and [LILACS](https://lilacs.bvsalud.org/en/)
+  1. Build RSS feed parser using PubMed, with a sample search term
+     - Save search results as a dataframe
+     - Upload results to a Google Sheet
+     - Email notification to receive new results
+  2. Task
+     - Build the same for LILACS
 
 ___
 
@@ -148,6 +181,8 @@ ___
 ## 2.00 pm: Web scraping
 
 ## 2.30 pm: Text mining KMBase
+  1. Open [Google Colab](https://colab.research.google.com/) in another tab
+  2. Follow in class instructions:)
 
 ## 4.00 pm: Recap and end
 
