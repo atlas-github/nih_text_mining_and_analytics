@@ -105,7 +105,8 @@ ___
      - Try loading a sample parquet file from [kkmnow-data](https://github.com/MoH-Malaysia/kkmnow-data)
 
 ## 11.00 am: scikit-learn
-  1.
+  1. Open [scikit-learn](https://scikit-learn.org/stable/) documentation
+  2. 
 
 ## 12.00 pm: Parse and analyze data from Microsoft Excel
   1. 
