@@ -8,7 +8,34 @@
   1. 
 
 ## 09.15 am: Code using Google Colab
-  1. 
+   1. Using either your new Google account or your personal account, open [Google Colab](https://colab.research.google.com/) in another tab
+   2. Google Colab's interface and functions:
+     - Tools >> Settings >> 
+         - Editor >> Show line numbers (check if you prefer)
+         - Miscellaneous >> Corgi mode, Kitty mode (turn on if you like)
+      - Test with some basic code:
+         - Click Connect at top right
+         - Write simple definition	
+         - Test simple math problem
+      - Runtime settings
+         - Run cells
+         - Reset
+      - Code and text cells
+      - Save
+   3. More about Colab’s Markdown here
+   4. Refer to [colab_intro.ipynb](https://github.com/atlas-github/2023fstep25/blob/main/colab_intro.ipynb)
+   5. Open a new notebook on [Google Colab](https://colab.research.google.com/)
+   6. Try out a few plots on Seaborn:
+      - [histplot](https://seaborn.pydata.org/generated/seaborn.histplot.html#seaborn.histplot)
+      - [displot](https://seaborn.pydata.org/generated/seaborn.displot.html#seaborn.displot)
+      - [boxplot](https://seaborn.pydata.org/generated/seaborn.boxplot.html#seaborn.boxplot)
+      - [lmplot](https://seaborn.pydata.org/generated/seaborn.lmplot.html#seaborn.lmplot)
+   7. Practice:
+      - Load the [CSV](https://docs.google.com/spreadsheets/d/1IaonaJj-c5Ud76Uc9WeRiMSlKLTNnbg-BCUxOoZrXn0/edit?usp=sharing) into Colab
+      - Create a [displot](https://seaborn.pydata.org/generated/seaborn.displot.html#seaborn.displot), where x-axis represents `Region`
+      - Create a [catplot](https://seaborn.pydata.org/generated/seaborn.catplot.html#seaborn.catplot), where x-axis is `Profit` and y-axis is `Sub-Category`
+      - Adjust the size of charts by `sns.set(rc={'figure.figsize':(25.7,8.27)})`
+      - Create a [boxplot](https://seaborn.pydata.org/generated/seaborn.boxplot.html#seaborn.boxplot) where x-axis is `Sales`, and y-axis is `Region`
 
 ___
 
@@ -16,11 +43,13 @@ ___
 ___
 
 ## 10.20 am: Data structures and the pandas library
+  1.
 
 ## 11.00 am: scikit-learn
+  1.
 
 ## 12.00 pm: Parse and analyze data from Microsoft Excel
-
+  1. 
 ___
 
 ## 1.00 pm: Lunch
