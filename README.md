@@ -162,8 +162,6 @@ ___
       - Filter to include only `df[df['location.location_name'] == 'Langkawi']`
       - Output into a CSV file, then download and open in Excel
       - Now try the Transport API (GTFS-R) and output the locations of Prasarana buses on Google My Maps
-      - What other questions can you answer?
-      - Don't forget to try using the [Weather API](https://developer.data.gov.my/realtime-api/weather) 
 
 ## 12.00 pm: Text mining using [PubMed](https://pubmed.ncbi.nlm.nih.gov/) and [LILACS](https://lilacs.bvsalud.org/en/)
   1. Build RSS feed parser using PubMed, with a sample search term
