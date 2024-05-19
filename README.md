@@ -1,6 +1,7 @@
 # Agenda:
 
-## Day 1
+<details open>
+<summary>## Day 1</summary>
 
 ### 08.30 am: Introduction
 [Here's](https://docs.google.com/presentation/d/e/2PACX-1vRbfvQpTP4ARbARRWhOL6WZ6koCKSHvf5OxFyHcJjn8GHXG3OpuneEH6uMYlpxKX0H_sEfHB6KAKrkq/pub?start=true&loop=false&slide=id.g29007063b8d_0_118) what I achieved so far.
@@ -30,7 +31,7 @@ ___
 ### 2.00 pm: Unsupservised machine learning using medhX data
   1. Wyhow to provide data source
 
-
+</details>
 
 ## Day 2
 
