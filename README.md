@@ -44,15 +44,60 @@ ___
 ## 10.20 am: Data structures and the pandas library
   1. Most common data structures:
      - Lists like `my_list = [1, 2, 3, 'hello', True]`
-       - Lists are 
+       - Lists are ordered collections of items, and can contain elements of different types
+       - Elements can be changed after the list is created
+       - Denoted using square brackets `[]`
      - Tuples like `my_tuple = (1, 2, 'world', False)`
-     - Dictionaries
-     - Sets
-     - Strings
-     - Arrays
-  2. Open [pandas](https://pandas.pydata.org/) documentation
-  3. Download as [Excel](https://docs.google.com/spreadsheets/d/1IaonaJj-c5Ud76Uc9WeRiMSlKLTNnbg-BCUxOoZrXn0/edit?usp=sharing)
-  4. Try a few pandas tasks:
+       - Similar to lists
+       - Immutable: once the elements are created, they cannot be changed
+       - Denoted using parentheses `()`
+     - Dictionaries like `my_dict = {'name': 'John', 'age': 30, 'city': 'New York'}`
+       - Collections of key-value pairs
+       - Unordered
+       - Keys must be unique within a dictionary
+       - Used to map relationships beween items
+       - Denoted using `{}`
+     - Sets like `my_set = {1, 2, 3, 4, 5}`
+       - Unordered collections of unique elements
+       - Useful to remove duplicates from a sequence or testing membership
+       - Denoted using curly braces `{}` or `set()` 
+     - Strings like `my_string = "Hello, World!"`
+       - Sequences of characters, used to represent text data
+       - Enclosed in single or double quotes
+     - Arrays like `my_array = array.array('i', [1, 2, 3, 4, 5])`
+       - Collections of items of the same type (integers or floats etc.)
+       - More memory efficient than lists for certain operations
+       - Created using `array()` from the `array` module
+  2. Lists
+     - Using `my_list = [1, 2, 3, 4, 5]`:
+       - Access element by index
+       - Extract a subset of elements
+       - Adding elements to the list
+       - Inserting and deleting elements
+       - Length of list
+       - Membership testing
+  3. Dictionaries
+     - Using `my_dict = {'name': 'John', 'age': 30}`
+       - Access element by key
+       - Adding and updating key-value pairs
+       - Length of dictionary
+       - Membership testing
+  4. Sets
+     - Using `my_set = {1, 2, 3, 4, 5}`
+       - Adding and removing elements from set
+       - Union, intersection, and difference
+       - Length of set
+       - Membership testing in set
+  5. Strings
+     - Using `my_string = "Hello, World!"`
+       - Accessing characters by index
+       - Extract substrings
+       - Concatenation
+       - Length
+       - Membership testing
+  7. Open [pandas](https://pandas.pydata.org/) documentation
+  8. Download as [Excel](https://docs.google.com/spreadsheets/d/1IaonaJj-c5Ud76Uc9WeRiMSlKLTNnbg-BCUxOoZrXn0/edit?usp=sharing)
+  9. Try a few pandas tasks:
      - Load Excel file (above) using one of the functions provided in the [pandas](https://pandas.pydata.org/docs/reference/io.html#excel) library
      - Load a csv file from [KKM](https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/static/population.csv) using one of the functions provided in the [pandas](https://pandas.pydata.org/docs/reference/io.html#flat-file) library
      - Convert the csv file (or the Excel file) into a parquet file using one of the functions provided in the [pandas](https://pandas.pydata.org/docs/reference/io.html#parquet) library
