@@ -163,7 +163,7 @@ ___
      - Given a string, write a function to count the occurrences of each character and store the result in a dictionary.
        - Example Input: `'hello'`
        - Expected Output: `{'h': 1, 'e': 1, 'l': 2, 'o': 1}`
-    - Given a string, write a function to capitalize the first letter of each word.
+     - Given a string, write a function to capitalize the first letter of each word.
        - Example Input: `'hello world'`
        - Expected Output: `'Hello World'`
 
