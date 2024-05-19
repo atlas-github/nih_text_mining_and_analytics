@@ -109,7 +109,16 @@ ___
   2. 
 
 ## 12.00 pm: Parse and analyze data from Microsoft Excel
-  1. 
+  1. Download as [Excel](https://docs.google.com/spreadsheets/d/1IaonaJj-c5Ud76Uc9WeRiMSlKLTNnbg-BCUxOoZrXn0/edit?usp=sharing)
+  2. Load all 3 sheets as dataframes in Colab
+  3. Answer the following questions using any chart/table:
+     - What is the total `sales` by `category` and `year`?
+     - What is the total `profit` by `category` and `year`?
+     - Which `cities` have generated the highest `sales`?
+     - What are the `margins` by `segment`?
+     - Which `city` has the highest returns?
+     - What is the name of the Customer with the Highest Sales in New York City?
+     - What Sub-Category did this Customer buy, and how much Sales and Profit did this Customer generate for the company?
 ___
 
 ## 1.00 pm: Lunch
