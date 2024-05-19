@@ -103,7 +103,6 @@ ___
      - Convert the csv file (or the Excel file) into a parquet file using one of the functions provided in the [pandas](https://pandas.pydata.org/docs/reference/io.html#parquet) library
      - Load the parquet file into Google Colab, verify if the conversion is done correctly
      - Try loading a sample parquet file from [kkmnow-data](https://github.com/MoH-Malaysia/kkmnow-data)
-     - 
 
 ## 11.00 am: scikit-learn
   1.
@@ -115,8 +114,8 @@ ___
 ## 1.00 pm: Lunch
 ___
 
-## 2.00 pm: Unsupservised machine learning using medhX data
-  1. Wyhow to provide data source
+## 2.00 pm: Unsupervised machine learning using medhX data
+  1. Wyhow to provide data source on [Drive](https://drive.google.com/drive/folders/1-7WkExnqc7FJp4clivrxfp6lxDebDpGj?usp=sharing)
 
 </details>
 
