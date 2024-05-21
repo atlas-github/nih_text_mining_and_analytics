@@ -248,5 +248,6 @@ ___
   2. Follow in class instructions:)
 
 ## 4.00 pm: Recap and end
-
+  1. [Python Crash Course](https://nostarch.com/pythoncrashcourse2e)
+  2. [Google Cloud](https://cloud.google.com/certification)
 </details>
