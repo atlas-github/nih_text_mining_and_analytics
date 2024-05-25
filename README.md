@@ -106,7 +106,27 @@ ___
 
 ## 11.00 am: scikit-learn
   1. Open [scikit-learn](https://scikit-learn.org/stable/) documentation
-  2. 
+  2. Tasks:
+     - Breast Cancer Classification: Predict whether a tumor is benign or malignant.
+       - Load the dataset using `sklearn.datasets.load_breast_cancer`.
+       - Split the data into training and testing sets using `train_test_split`.
+       - Train a support vector machine (SVM) classifier using SVC.
+       - Evaluate the classifier using a confusion matrix, accuracy, precision, recall, and F1 score.
+     - [Use ChatGPT] Digits Recognition: Recognize handwritten digits from images.
+       - Load the dataset using `sklearn.datasets.load_digits`.
+       - Split the data into training and testing sets.
+       - Train a k-nearest neighbors (KNN) classifier using KNeighborsClassifier.
+       - Evaluate the classifier using a classification report and accuracy score.
+     - Wine Quality Clustering: Cluster wines into distinct groups based on their chemical properties.
+       - Load the wine dataset using `sklearn.datasets.load_wine`.
+       - Apply K-means clustering using KMeans.
+       - Determine the optimal number of clusters using the elbow method or silhouette score.
+       - Visualize the clusters and interpret the results.
+    - Faces Clustering: Cluster facial images into groups based on facial features.
+       - Load the Olivetti faces dataset using sklearn.datasets.fetch_olivetti_faces.
+       - Apply affinity propagation clustering using AffinityPropagation.
+       - Visualize the representative faces of each cluster and interpret the clustering results.
+    - Principal Component Analysis example [here](https://scikit-learn.org/stable/auto_examples/decomposition/plot_pca_iris.html#sphx-glr-auto-examples-decomposition-plot-pca-iris-py)
 
 ## 12.00 pm: Parse and analyze data from Microsoft Excel
   1. Download as [Excel](https://docs.google.com/spreadsheets/d/1IaonaJj-c5Ud76Uc9WeRiMSlKLTNnbg-BCUxOoZrXn0/edit?usp=sharing)
