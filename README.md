@@ -5,7 +5,7 @@
 [Here's](https://docs.google.com/presentation/d/e/2PACX-1vRbfvQpTP4ARbARRWhOL6WZ6koCKSHvf5OxFyHcJjn8GHXG3OpuneEH6uMYlpxKX0H_sEfHB6KAKrkq/pub?start=true&loop=false&slide=id.g29007063b8d_0_118) what I achieved so far.
 
 ## 08.35 am: Unsupervised machine learning
-  1. 
+Slides [here](https://docs.google.com/presentation/d/1w_2gY5g72xAiXMA6m9AcTfFq1RZcKlOrokEMjuqT4Gs/present)
 
 ## 09.15 am: Code using Google Colab
    1. Using either your new Google account or your personal account, open [Google Colab](https://colab.research.google.com/) in another tab
