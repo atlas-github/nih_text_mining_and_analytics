@@ -172,7 +172,7 @@ ___
      - Write a function to merge two dictionaries.
        - Example Input: `{'a': 1, 'b': 2}, {'c': 3, 'd': 4}`
        - Expected Output: `{'a': 1, 'b': 2, 'c': 3, 'd': 4}`
-    - Write a function to check if a key exists in a dictionary.
+     - Write a function to check if a key exists in a dictionary.
        - Example Input: `{'a': 1, 'b': 2, 'c': 3}, 'b'`
        - Expected Output: `True`
   3. Sets
