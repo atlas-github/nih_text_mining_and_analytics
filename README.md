@@ -153,6 +153,7 @@ ___
 <summary> Day 2 </summary>
 
 ## 08.30 am: Text mining
+Slides [here](https://docs.google.com/presentation/d/1ZffQi1MDtPPC8VNAZ7UzRlC2-ML9erV9sCd2MgbqVPg/present?usp=sharing)
 
 ## 09.30 am: Revise data structures and list methods
   1. Lists
