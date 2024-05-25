@@ -271,4 +271,5 @@ ___
 ## 4.00 pm: Recap and end
   1. [Python Crash Course](https://nostarch.com/pythoncrashcourse2e)
   2. [Google Cloud](https://cloud.google.com/certification)
+  3. Feedback on [Google Forms](https://forms.gle/EaQfzidAEBQF8Df47)
 </details>
