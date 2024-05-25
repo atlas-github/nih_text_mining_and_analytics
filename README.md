@@ -122,7 +122,7 @@ ___
        - Apply K-means clustering using KMeans.
        - Determine the optimal number of clusters using the elbow method or silhouette score.
        - Visualize the clusters and interpret the results.
-    - Faces Clustering: Cluster facial images into groups based on facial features.
+     - Faces Clustering: Cluster facial images into groups based on facial features.
        - Load the Olivetti faces dataset using sklearn.datasets.fetch_olivetti_faces.
        - Apply affinity propagation clustering using AffinityPropagation.
        - Visualize the representative faces of each cluster and interpret the clustering results.
