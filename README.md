@@ -1,13 +1,13 @@
 <details open>
 <summary> Day 1 </summary>
 
-## 08.30 am: Introduction
+## 08.15 am: Introduction
 [Here's](https://docs.google.com/presentation/d/e/2PACX-1vRbfvQpTP4ARbARRWhOL6WZ6koCKSHvf5OxFyHcJjn8GHXG3OpuneEH6uMYlpxKX0H_sEfHB6KAKrkq/pub?start=true&loop=false&slide=id.g29007063b8d_0_118) what I achieved so far.
 
-## 08.35 am: Unsupervised machine learning
+## 08.30 am: Unsupervised machine learning
 Slides [here](https://docs.google.com/presentation/d/1w_2gY5g72xAiXMA6m9AcTfFq1RZcKlOrokEMjuqT4Gs/present)
 
-## 09.15 am: Code using Google Colab
+## 09.00 am: Code using Google Colab
    1. Using either your new Google account or your personal account, open [Google Colab](https://colab.research.google.com/) in another tab
    2. Google Colab's interface and functions:
      - Tools >> Settings >> 
@@ -38,10 +38,10 @@ Slides [here](https://docs.google.com/presentation/d/1w_2gY5g72xAiXMA6m9AcTfFq1R
 
 ___
 
-## 10.15 am: Break
+## 09.30 am: Break
 ___
 
-## 10.20 am: Data structures and the pandas library
+## 10.00 am: Data structures and the pandas library
   1. Most common data structures:
      - Lists like `my_list = [1, 2, 3, 'hello', True]`
        - Lists are ordered collections of items, and can contain elements of different types
@@ -152,10 +152,10 @@ ___
 <details open>
 <summary> Day 2 </summary>
 
-## 08.30 am: Text mining
+## 08.15 am: Text mining
 Slides [here](https://docs.google.com/presentation/d/1ZffQi1MDtPPC8VNAZ7UzRlC2-ML9erV9sCd2MgbqVPg/present?usp=sharing)
 
-## 09.30 am: Revise data structures and list methods
+## 09.15 am: Revise data structures and list methods
   1. Lists
      - Given a list of integers, write a function to find the sum of all the numbers.
        - Example Input: `[1, 2, 3, 4, 5]`
@@ -197,7 +197,7 @@ Slides [here](https://docs.google.com/presentation/d/1ZffQi1MDtPPC8VNAZ7UzRlC2-M
        - Example Input: `'hello world'`
        - Expected Output: `'Hello World'`
 
-## 10.00 am: JSON parsing and list comprehensions
+## 09.50 am: JSON parsing and list comprehensions
   1. Download json file from [Nobel](https://api.nobelprize.org/v1/laureate.json) by right clicking, and Save As
   2. Now turn the table into a dataframe on Colab
   3. Turn code chunks using for-loops into list comprehensions.
@@ -206,10 +206,10 @@ Slides [here](https://docs.google.com/presentation/d/1ZffQi1MDtPPC8VNAZ7UzRlC2-M
      - Multiples of Three and Five: Write a list comprehension that generates a list of numbers from 1 to 100 that are multiples of three or five.
 ___
 
-## 10.40 am: Break
+## 10.30 am: Break
 ___
 
-## 10.50 am: XML parsing
+## 10.45 am: XML parsing
   1. Load a sample XML file from [here](https://gist.githubusercontent.com/Ram-N/5189462/raw/46db0b43ad7bf9cbd32a8932f3ab981bd4b4da7c/books.xml) using one of the functions provided in the pandas library
   2. Convert the XML file into a dataframe in Colab
   3. Download the table as a CSV file onto your laptop
@@ -217,7 +217,7 @@ ___
   5. Convert the RSS output into a dataframe in Colab
   6. Download the result as a CSV file onto your laptop
 
-## 11.30 am: REST APIs (using GitHub's [API](https://api.github.com/) and [data.gov.my](https://data.gov.my/dashboard))
+## 11.35 am: REST APIs (using GitHub's [API](https://api.github.com/) and [data.gov.my](https://data.gov.my/dashboard))
    1. Using either your new Google account or your personal account, sign up for [Postman](https://www.postman.com/), then log in
        - Look for Workspaces (top left of the page) >> My Workspace (Click)
        - ![image](https://github.com/atlas-github/2023fstep25/assets/50855923/4144bc9c-1375-404e-9a39-747cd179724c)
@@ -244,7 +244,7 @@ ___
       - Output into a CSV file, then download and open in Excel
       - Now try the Transport API (GTFS-R) and output the locations of Prasarana buses on Google My Maps
 
-## 12.00 pm: Text mining using [PubMed](https://pubmed.ncbi.nlm.nih.gov/) and [LILACS](https://lilacs.bvsalud.org/en/)
+## 12.15 pm: Text mining using [PubMed](https://pubmed.ncbi.nlm.nih.gov/) and [LILACS](https://lilacs.bvsalud.org/en/)
   1. Build RSS feed parser using PubMed, with a sample search term
      - Save search results as a dataframe
      - Upload results to a Google Sheet
@@ -257,18 +257,18 @@ ___
 
 ___
 
-## 12.50 pm: Lunch
+## 1.00 pm: Lunch
 ___
 
 ## 2.00 pm: Web scraping
   1. Web scrape [Selangor](https://en.wikipedia.org/wiki/Selangor) using Python's [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
   2. Find all paragraphs
 
-## 2.30 pm: Text mining KMBase
+## 2.45 pm: Text mining KMBase
   1. Open [Google Colab](https://colab.research.google.com/) in another tab
   2. Follow in class instructions:)
 
-## 4.00 pm: Recap and end
+## 4.30 pm: Recap and end
   1. [Python Crash Course](https://nostarch.com/pythoncrashcourse2e)
   2. [Google Cloud](https://cloud.google.com/certification)
   3. Feedback on [Google Forms](https://forms.gle/EaQfzidAEBQF8Df47)
