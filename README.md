@@ -126,7 +126,7 @@ ___
        - Load the Olivetti faces dataset using sklearn.datasets.fetch_olivetti_faces.
        - Apply affinity propagation clustering using AffinityPropagation.
        - Visualize the representative faces of each cluster and interpret the clustering results.
-    - Principal Component Analysis example [here](https://scikit-learn.org/stable/auto_examples/decomposition/plot_pca_iris.html#sphx-glr-auto-examples-decomposition-plot-pca-iris-py)
+     - Principal Component Analysis example [here](https://scikit-learn.org/stable/auto_examples/decomposition/plot_pca_iris.html#sphx-glr-auto-examples-decomposition-plot-pca-iris-py)
 
 ## 12.00 pm: Parse and analyze data from Microsoft Excel
   1. Download as [Excel](https://docs.google.com/spreadsheets/d/1IaonaJj-c5Ud76Uc9WeRiMSlKLTNnbg-BCUxOoZrXn0/edit?usp=sharing)
