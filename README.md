@@ -105,7 +105,7 @@ ___
      - Convert the csv file (or the Excel file) into a parquet file using one of the functions provided in the [pandas](https://pandas.pydata.org/docs/reference/io.html#parquet) library
      - Load the parquet file into Google Colab, verify if the conversion is done correctly
      - Try loading a sample parquet file from [kkmnow-data](https://github.com/MoH-Malaysia/kkmnow-data)
-  10. **Solutions [here](https://drive.google.com/file/d/1E7LZZ7FJoV4CIUZRq41rt0uc5CPoX1hC/view?usp=drive_link) **
+  10. **Solutions [here](https://drive.google.com/file/d/1E7LZZ7FJoV4CIUZRq41rt0uc5CPoX1hC/view?usp=drive_link)**
 
 ## 11.00 am: scikit-learn
   1. Open [scikit-learn](https://scikit-learn.org/stable/) documentation
@@ -143,7 +143,7 @@ ___
      - Which `city` has the highest returns?
      - What is the name of the Customer with the Highest Sales in New York City?
      - What Sub-Category did this Customer buy, and how much Sales and Profit did this Customer generate for the company?
-  4. **Solutions [here](https://drive.google.com/file/d/1E7LZZ7FJoV4CIUZRq41rt0uc5CPoX1hC/view?usp=drive_link) **
+  4. **Solutions [here](https://drive.google.com/file/d/1E7LZZ7FJoV4CIUZRq41rt0uc5CPoX1hC/view?usp=drive_link)**
 ___
 
 ## 1.00 pm: Lunch
