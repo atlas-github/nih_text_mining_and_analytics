@@ -35,6 +35,7 @@ Slides [here](https://docs.google.com/presentation/d/1w_2gY5g72xAiXMA6m9AcTfFq1R
       - Create a [catplot](https://seaborn.pydata.org/generated/seaborn.catplot.html#seaborn.catplot), where x-axis is `Profit` and y-axis is `Sub-Category`
       - Adjust the size of charts by `sns.set(rc={'figure.figsize':(25.7,8.27)})`
       - Create a [boxplot](https://seaborn.pydata.org/generated/seaborn.boxplot.html#seaborn.boxplot) where x-axis is `Sales`, and y-axis is `Region`
+   7. Solutions [here](https://drive.google.com/file/d/1E7LZZ7FJoV4CIUZRq41rt0uc5CPoX1hC/view?usp=drive_link) 
 
 ___
 
@@ -103,6 +104,7 @@ ___
      - Convert the csv file (or the Excel file) into a parquet file using one of the functions provided in the [pandas](https://pandas.pydata.org/docs/reference/io.html#parquet) library
      - Load the parquet file into Google Colab, verify if the conversion is done correctly
      - Try loading a sample parquet file from [kkmnow-data](https://github.com/MoH-Malaysia/kkmnow-data)
+  10. Solutions [here](https://drive.google.com/file/d/1E7LZZ7FJoV4CIUZRq41rt0uc5CPoX1hC/view?usp=drive_link) 
 
 ## 11.00 am: scikit-learn
   1. Open [scikit-learn](https://scikit-learn.org/stable/) documentation
@@ -127,6 +129,7 @@ ___
        - Apply affinity propagation clustering using AffinityPropagation.
        - Visualize the representative faces of each cluster and interpret the clustering results.
      - Principal Component Analysis example [here](https://scikit-learn.org/stable/auto_examples/decomposition/plot_pca_iris.html#sphx-glr-auto-examples-decomposition-plot-pca-iris-py)
+  3. Solutions [here](https://drive.google.com/file/d/1E7LZZ7FJoV4CIUZRq41rt0uc5CPoX1hC/view?usp=drive_link) 
 
 ## 12.00 pm: Parse and analyze data from Microsoft Excel
   1. Download as [Excel](https://docs.google.com/spreadsheets/d/1IaonaJj-c5Ud76Uc9WeRiMSlKLTNnbg-BCUxOoZrXn0/edit?usp=sharing)
@@ -139,6 +142,7 @@ ___
      - Which `city` has the highest returns?
      - What is the name of the Customer with the Highest Sales in New York City?
      - What Sub-Category did this Customer buy, and how much Sales and Profit did this Customer generate for the company?
+  4. Solutions [here](https://drive.google.com/file/d/1E7LZZ7FJoV4CIUZRq41rt0uc5CPoX1hC/view?usp=drive_link) 
 ___
 
 ## 1.00 pm: Lunch
