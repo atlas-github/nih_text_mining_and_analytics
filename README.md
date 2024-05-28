@@ -146,6 +146,8 @@ ___
 
 ## 2.00 pm: Unsupervised machine learning using medhX data
   1. Wyhow to provide data source on [Drive](https://drive.google.com/drive/folders/1-7WkExnqc7FJp4clivrxfp6lxDebDpGj?usp=sharing)
+  2. Principal Component Analysis notebook is [here](https://drive.google.com/file/d/1PrWsdCO4n1zR4T1xVcXrq1lBFt_Ms7Zi/view?usp=drive_link)
+  3. medhX notebook is [here](https://drive.google.com/file/d/1sfw8Gw1LCdKaNCytYEitvvHcCvYj6nV7/view?usp=drive_link)
 
 </details>
 
