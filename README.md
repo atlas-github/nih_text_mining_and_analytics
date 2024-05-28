@@ -35,8 +35,7 @@ Slides [here](https://docs.google.com/presentation/d/1w_2gY5g72xAiXMA6m9AcTfFq1R
       - Create a [catplot](https://seaborn.pydata.org/generated/seaborn.catplot.html#seaborn.catplot), where x-axis is `Profit` and y-axis is `Sub-Category`
       - Adjust the size of charts by `sns.set(rc={'figure.figsize':(25.7,8.27)})`
       - Create a [boxplot](https://seaborn.pydata.org/generated/seaborn.boxplot.html#seaborn.boxplot) where x-axis is `Sales`, and y-axis is `Region`
-> [!NOTE]
-> Solutions [here](https://drive.google.com/file/d/1E7LZZ7FJoV4CIUZRq41rt0uc5CPoX1hC/view?usp=drive_link)
+   7. Solutions [here](https://drive.google.com/file/d/1E7LZZ7FJoV4CIUZRq41rt0uc5CPoX1hC/view?usp=drive_link)
    
 
 ___
