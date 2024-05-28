@@ -253,12 +253,12 @@ ___
 ## 12.15 pm: Text mining using [PubMed](https://pubmed.ncbi.nlm.nih.gov/) and [LILACS](https://lilacs.bvsalud.org/en/)
   1. Build RSS feed parser using PubMed, with a sample search term
      - Save search results as a dataframe
-     - Upload results to a Google Sheet
+     - Upload results to a Google Sheet (requires a Google Cloud Platform account - steps are [here](https://medium.com/@jb.ranchana/write-and-append-dataframes-to-google-sheets-in-python-f62479460cf0))
      - Email notification to receive new results
   2. Task
      - Build RSS feed parser using LILACS, with a sample search term
      - Save search results as a dataframe
-     - Upload results to a Google Sheet
+     - Upload results to a Google Sheet (requires a Google Cloud Platform account - steps are [here](https://medium.com/@jb.ranchana/write-and-append-dataframes-to-google-sheets-in-python-f62479460cf0))
      - Email notification to receive new results
 
 ___
