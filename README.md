@@ -269,6 +269,8 @@ ___
 ## 2.00 pm: Web scraping
   1. Web scrape [Selangor](https://en.wikipedia.org/wiki/Selangor) using Python's [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
   2. Find all paragraphs
+  3. Activate [2-Step Verification](https://support.google.com/accounts/answer/185839)
+  4. Refer to Sending a [Plain-Text Email](https://realpython.com/python-send-email/). Look for the code section just above the **Sending a Fancy Email** header.
 
 ## 2.45 pm: Text mining KMBase
   1. Open [Google Colab](https://colab.research.google.com/) in another tab
