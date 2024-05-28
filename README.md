@@ -207,7 +207,7 @@ Slides [here](https://docs.google.com/presentation/d/1ZffQi1MDtPPC8VNAZ7UzRlC2-M
   1. Download json file from [Nobel](https://api.nobelprize.org/v1/laureate.json) by right clicking, and Save As
   2. Now turn the table into a dataframe on Colab
   3. Turn code chunks using for-loops into list comprehensions.
-     - Prime Numbers: Write a list comprehension that generates a list of prime numbers from 1 to 50
+     - Odd Numbers: Write a list comprehension that generates a list of odd numbers from 1 to 50
      - Word Lengths: Given a list of words `['radar', 'level', 'python', 'madam', 'hello', 'racecar']`, write a list comprehension that generates a list of the lengths of those words.
      - Multiples of Three and Five: Write a list comprehension that generates a list of numbers from 1 to 100 that are multiples of three or five.
 ___
