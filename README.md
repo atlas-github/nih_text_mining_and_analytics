@@ -130,7 +130,7 @@ ___
        - Apply affinity propagation clustering using AffinityPropagation.
        - Visualize the representative faces of each cluster and interpret the clustering results.
      - Principal Component Analysis example [here](https://scikit-learn.org/stable/auto_examples/decomposition/plot_pca_iris.html#sphx-glr-auto-examples-decomposition-plot-pca-iris-py)
-  3. **Solutions [here](https://drive.google.com/file/d/1E7LZZ7FJoV4CIUZRq41rt0uc5CPoX1hC/view?usp=drive_link)**
+  3. **Solutions [here](https://github.com/atlas-github/nih_text_mining_and_analytics/blob/main/basics.ipynb) or [here](https://drive.google.com/file/d/1E7LZZ7FJoV4CIUZRq41rt0uc5CPoX1hC/view?usp=drive_link)**
 
 ## 12.00 pm: Parse and analyze data from Microsoft Excel
   1. Download as [Excel](https://docs.google.com/spreadsheets/d/1IaonaJj-c5Ud76Uc9WeRiMSlKLTNnbg-BCUxOoZrXn0/edit?usp=sharing)
