@@ -203,6 +203,7 @@ Slides [here](https://docs.google.com/presentation/d/1ZffQi1MDtPPC8VNAZ7UzRlC2-M
      - Given a string, write a function to capitalize the first letter of each word.
        - Example Input: `'hello world'`
        - Expected Output: `'Hello World'`
+  5. Solutions [here](https://github.com/atlas-github/nih_text_mining_and_analytics/blob/main/text_mining.ipynb) or [here](https://drive.google.com/file/d/1ZCgySZfHCQMvmykZEDVMv2SYg8BodvAO/view?usp=drive_link)
 
 ## 09.50 am: JSON parsing and list comprehensions
   1. Download json file from [Nobel](https://api.nobelprize.org/v1/laureate.json) by right clicking, and Save As
@@ -211,6 +212,7 @@ Slides [here](https://docs.google.com/presentation/d/1ZffQi1MDtPPC8VNAZ7UzRlC2-M
      - Odd Numbers: Write a list comprehension that generates a list of odd numbers from 1 to 50
      - Word Lengths: Given a list of words `['radar', 'level', 'python', 'madam', 'hello', 'racecar']`, write a list comprehension that generates a list of the lengths of those words.
      - Multiples of Three and Five: Write a list comprehension that generates a list of numbers from 1 to 100 that are multiples of three or five.
+  4. Solutions [here](https://github.com/atlas-github/nih_text_mining_and_analytics/blob/main/text_mining.ipynb) or [here](https://drive.google.com/file/d/1ZCgySZfHCQMvmykZEDVMv2SYg8BodvAO/view?usp=drive_link)
 ___
 
 ## 10.30 am: Break
@@ -223,6 +225,7 @@ ___
   4. Open the link [The Guardian](https://www.theguardian.com/international/rss)
   5. Convert the RSS output into a dataframe in Colab
   6. Download the result as a CSV file onto your laptop
+  7. Solutions [here](https://github.com/atlas-github/nih_text_mining_and_analytics/blob/main/text_mining.ipynb) or [here](https://drive.google.com/file/d/1ZCgySZfHCQMvmykZEDVMv2SYg8BodvAO/view?usp=drive_link)
 
 ## 11.35 am: REST APIs (using GitHub's [API](https://api.github.com/) and [data.gov.my](https://data.gov.my/dashboard))
    1. Using either your new Google account or your personal account, sign up for [Postman](https://www.postman.com/), then log in
@@ -250,6 +253,7 @@ ___
       - Filter to include only `df[df['location.location_name'] == 'Langkawi']`
       - Output into a CSV file, then download and open in Excel
       - Now try the Transport API (GTFS-R) and output the locations of Prasarana buses on Google My Maps
+   7. Solutions [here](https://github.com/atlas-github/nih_text_mining_and_analytics/blob/main/text_mining.ipynb) or [here](https://drive.google.com/file/d/1ZCgySZfHCQMvmykZEDVMv2SYg8BodvAO/view?usp=drive_link)
 
 ## 12.15 pm: Text mining using [PubMed](https://pubmed.ncbi.nlm.nih.gov/) and [LILACS](https://lilacs.bvsalud.org/en/)
   1. Build RSS feed parser using PubMed, with a sample search term
@@ -261,6 +265,7 @@ ___
      - Save search results as a dataframe
      - Upload results to a Google Sheet (requires a Google Cloud Platform account - steps are [here](https://medium.com/@jb.ranchana/write-and-append-dataframes-to-google-sheets-in-python-f62479460cf0))
      - Email notification to receive new results
+  3. Solutions [here](https://github.com/atlas-github/nih_text_mining_and_analytics/blob/main/text_mining.ipynb) or [here](https://drive.google.com/file/d/1ZCgySZfHCQMvmykZEDVMv2SYg8BodvAO/view?usp=drive_link)
 
 ___
 
@@ -272,10 +277,12 @@ ___
   2. Find all paragraphs
   3. Activate [2-Step Verification](https://support.google.com/accounts/answer/185839)
   4. Refer to Sending a [Plain-Text Email](https://realpython.com/python-send-email/). Look for the code section just above the **Sending a Fancy Email** header.
+  5. Solutions [here](https://github.com/atlas-github/nih_text_mining_and_analytics/blob/main/text_mining.ipynb) or [here](https://drive.google.com/file/d/1ZCgySZfHCQMvmykZEDVMv2SYg8BodvAO/view?usp=drive_link)
 
 ## 2.45 pm: Text mining [KMBase](https://kmbase.medric.or.kr/)
   1. Open [Google Colab](https://colab.research.google.com/) in another tab
   2. Follow in class instructions:)
+  3. Solutions [here](https://github.com/atlas-github/nih_text_mining_and_analytics/blob/main/text_mining.ipynb) or [here](https://drive.google.com/file/d/1ZCgySZfHCQMvmykZEDVMv2SYg8BodvAO/view?usp=drive_link)
 
 ## 4.30 pm: Recap and end
   1. [Python Crash Course](https://nostarch.com/pythoncrashcourse2e)
