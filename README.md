@@ -273,7 +273,7 @@ ___
   3. Activate [2-Step Verification](https://support.google.com/accounts/answer/185839)
   4. Refer to Sending a [Plain-Text Email](https://realpython.com/python-send-email/). Look for the code section just above the **Sending a Fancy Email** header.
 
-## 2.45 pm: Text mining KMBase
+## 2.45 pm: Text mining [KMBase](https://kmbase.medric.or.kr/)
   1. Open [Google Colab](https://colab.research.google.com/) in another tab
   2. Follow in class instructions:)
 
