@@ -292,4 +292,7 @@ ___
 
 > [!NOTE]
 > [National Medical Research Register](https://nmrr.gov.my/research-directory) overview scraper is [here](https://github.com/atlas-github/nih_text_mining_and_analytics/blob/main/nmrr_scraper_overview.ipynb) and overview results located [here](https://github.com/atlas-github/nih_text_mining_and_analytics/blob/main/df_nmrr_research_directory_31-May-2024%2003_55_55%20PM.csv)
-> Detailed results coming soon
+
+> [!NOTE]
+> Detailed NMRR scraper coming soon.
+
