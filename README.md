@@ -291,8 +291,5 @@ ___
 </details>
 
 > [!NOTE]
-> [National Medical Research Register](https://nmrr.gov.my/research-directory) overview scraper is [here](https://github.com/atlas-github/nih_text_mining_and_analytics/blob/main/nmrr_scraper_overview.ipynb) and overview results located [here](https://github.com/atlas-github/nih_text_mining_and_analytics/blob/main/df_nmrr_research_directory_31-May-2024%2003_55_55%20PM.csv)
-
-> [!NOTE]
-> Detailed NMRR scraper coming soon.
+> [National Medical Research Register](https://nmrr.gov.my/research-directory) web scraper is [here](https://github.com/atlas-github/nih_text_mining_and_analytics/blob/main/nmrr_scraper_overview.ipynb). Overview results located [here](https://github.com/atlas-github/nih_text_mining_and_analytics/blob/main/df_nmrr_research_directory_31-May-2024%2003_55_55%20PM.csv) and the detailed scrape is located [here](https://github.com/atlas-github/nih_text_mining_and_analytics/blob/main/df_nmrr_detailed.csv). Do take note the detailed scraper will take about 7 hours to run to web scrape over 30k webpages.
 
