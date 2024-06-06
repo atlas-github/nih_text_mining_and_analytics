@@ -10,7 +10,7 @@ Slides [here](https://docs.google.com/presentation/d/1w_2gY5g72xAiXMA6m9AcTfFq1R
 ## 09.00 am: Code using Google Colab
    1. Using either your new Google account or your personal account, open [Google Colab](https://colab.research.google.com/) in another tab
    2. Google Colab's interface and functions:
-     - Tools >> Settings >> 
+      - Tools >> Settings >> 
          - Editor >> Show line numbers (check if you prefer)
          - Miscellaneous >> Corgi mode, Kitty mode (turn on if you like)
       - Test with some basic code:
